@@ -1,3 +1,4 @@
-# research-projects
-Some of the research projects I completed at NES
+# Personal Projects
+Research projects, quantitative finance stuff, DS/ML projects
 * Local Impact of Coal Mining on Public Health (2022)
+* Structured Product Pricing
